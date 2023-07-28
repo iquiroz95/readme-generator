@@ -146,12 +146,6 @@ For any questions, please contact ${data.gitUserName} via:
 
 
 
-
-
-//The constants below were the last things I added. 
-
-
-
 // Sample data to be used for generating the README
 const readmeData = {
   title: 'My Awesome Project',

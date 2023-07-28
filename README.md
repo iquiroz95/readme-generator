@@ -1,9 +1,9 @@
 
-# undefined
+# readme generator
 
 ## Description
 
-This is a description of my awesome project.
+Generate a readme.md file using node
 
 ## Table of Contents
 
@@ -16,27 +16,27 @@ This is a description of my awesome project.
 
 ## Installation
 
-undefined
+npm i
 
 ## Usage
 
-undefined
+It is used to generate a readme.md file
 
 ## License
 
-undefined
+
 
 ## Contributing
 
-undefined
+Download to computer
 
 ## Tests
 
-undefined
+npm test
 
 ## Questions
 
-For any questions, please contact undefined via:
+For any questions, please contact iquiroz95 via:
 
-- Email: john.doe@example.com
-- GitHub: [undefined](https://github.com/undefined)
+- Email: delosreyesbeats@gmail.com
+- GitHub: [iquiroz95](https://github.com/iquiroz95)
